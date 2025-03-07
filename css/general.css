@@ -68,6 +68,7 @@ body {
     font-size: 4.4rem;
     line-height: 1.2;
     margin-bottom: 9.6rem;
+    
 }
 
 .heading-tertiary {
@@ -113,6 +114,11 @@ body {
 .btn--outline:visited {
     background-color: #fff;
     color: #555;
+}
+.btn:hover {
+    transform: translateY(-0.2rem);
+    box-shadow:  all 1.2rem rgba(0,0,0, 0.06);
+    transition: all 0.4s;
 }
 
 .btn--outline:hover, 
