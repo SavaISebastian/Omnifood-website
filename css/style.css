@@ -515,7 +515,7 @@
 }
 
 .cta-img-box {
-    background-image: linear-gradient(to right bottom, rgba(235, 151, 78, 0.35), rgba(230, 125, 34, 0.35)), url("../content/img/ioana.jpg");
+    background-image: linear-gradient(to right bottom, rgba(235, 151, 78, 0.35), rgba(230, 125, 34, 0.35)), url("../content/img/eating.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -608,7 +608,7 @@
     line-height: 1.6;
 }
 
-.adress {
+.address {
     margin-bottom: 2.4rem;
 }
 
